@@ -1,4 +1,4 @@
-import id.co.fif.finform.FinformKeywords as Finforms
+import id.co.finform.FinformKeywords as Finforms
 import utils.HelpersUtility as WEBUTILS
 import utils.DataGenerator as DataGenerator
 import utils.FileUtils as FileUtils
